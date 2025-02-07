@@ -1,4 +1,4 @@
-# HR - Data DashBoard
+# HR - Data analysis using Power BI DashBoard
 
 ## Problem Statement
 
